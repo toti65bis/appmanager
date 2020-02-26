@@ -1,4 +1,4 @@
-com/airhacks/quarkee/application/Application.class
-com/airhacks/quarkee/application/ApplicationResource.class
-com/airhacks/quarkee/ping/boundary/PingResource.class
-com/airhacks/quarkee/health/boundary/HealthProbe.class
+com\airhacks\quarkee\application\Application.class
+com\airhacks\quarkee\health\boundary\HealthProbe.class
+com\airhacks\quarkee\ping\boundary\PingResource.class
+com\airhacks\quarkee\application\ApplicationResource.class
